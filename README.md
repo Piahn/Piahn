@@ -57,7 +57,7 @@ The ServerIPseles (Web) version of Bot may be freely used, modified, and distrib
 
 For more information about the MIT License, please visit https://opensource.org/licenses/MIT.
 
-For questions or inquiries about Bot Rem or the JadiBot (Web) version, please contact Rem Company at info@remcp.com.
+For questions or inquiries about Bot Rem or the JadiBot (Web) version, please contact Comp-XTKjCode at info@remcp.com.
 
 > Web serverIP, yang dibuat oleh Comp-XTKjCode, dilindungi oleh hukum hak cipta dan perjanjian internasional.
 >
