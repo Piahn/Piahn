@@ -24,7 +24,7 @@ To display all the Server registered in the Comp-XTKjCode
 # Disclaimer
 
 **Website Comp-XTKjCode Repository/Source Code Not publicly available!**
-Therefore, all problems/bugs/errors that occur in the Website Server, can be reported on the issue page of [this](https://github.com/DwiRizqiH/rem-comp-listJadibot/issues) Repository
+Therefore, all problems/bugs/errors that occur in the Website Server, can be reported on the issue page of [this](https://github.com/Piahn) Repository
 
 If you have questions/other things, you can discuss it on the [discussion page](https://github.com/DwiRizqiH/rem-comp-listJadibot/discussions)
 
