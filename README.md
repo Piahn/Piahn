@@ -26,12 +26,12 @@ To display all the Server registered in the Comp-XTKjCode
 **Website Comp-XTKjCode Repository/Source Code Not publicly available!**
 Therefore, all problems/bugs/errors that occur in the Website Server, can be reported on the issue page of [this](https://github.com/Piahn) Repository
 
-If you have questions/other things, you can discuss it on the [discussion page](https://github.com/DwiRizqiH/rem-comp-listJadibot/discussions)
+If you have questions/other things, you can discuss it on the [discussion page](https://github.com/comunity-tkjcode)
 
 > Source Code/Repository Web Comp-XTKjCode Tidak tersedia untuk publik!
-Oleh karena itu, Semua masalah/bug/error yang terjadi pada Web Comp-XTKjCode, bisa dilaporkan di halaman issue Repository [ini](https://github.com/DwiRizqiH/rem-comp-listJadibot/issues)
+Oleh karena itu, Semua masalah/bug/error yang terjadi pada Web Comp-XTKjCode, bisa dilaporkan di halaman issue Repository [ini](https://github.com/comunity-tkjcode)
 > 
-> Jika ada Pertanyaan/Hal lain, bisa diskusi di [halaman diskusi](https://github.com/DwiRizqiH/rem-comp-listJadibot/discussions)
+> Jika ada Pertanyaan/Hal lain, bisa diskusi di [halaman diskusi](https://github.com/comunity-tkjcode)
 
 ## Important
 
@@ -49,7 +49,7 @@ The ServerIPseles (Web) version of Bot may be freely used, modified, and distrib
 
 1. The copyright notice and permission statement must be included in all copies or substantial portions of the software.
 
-2. The software must not be used for commercial purposes without the prior written permission of Rem Company.
+2. The software must not be used for commercial purposes without the prior written permission of TKJCode Company.
 
 3. The software must not be used in any way that is unlawful, harmful, or otherwise objectionable.
 
@@ -57,9 +57,9 @@ The ServerIPseles (Web) version of Bot may be freely used, modified, and distrib
 
 For more information about the MIT License, please visit https://opensource.org/licenses/MIT.
 
-For questions or inquiries about Bot Rem or the JadiBot (Web) version, please contact Comp-XTKjCode at info@remcp.com.
+For questions or inquiries about Bot Rem or the JadiBot (Web) version, please contact Comp-XTKjCode at info@Tkjcompy.com.
 
-> Web serverIP, yang dibuat oleh Comp-XTKjCode, dilindungi oleh hukum hak cipta dan perjanjian internasional.
+> Web server Web, yang dibuat oleh Comp-XTKjCode, dilindungi oleh hukum hak cipta dan perjanjian internasional.
 >
 > Semua hak dilindungi undang-undang, kecuali versi ServerIPseles (Web), yang dirilis di bawah Lisensi MIT.
 >
@@ -67,7 +67,7 @@ For questions or inquiries about Bot Rem or the JadiBot (Web) version, please co
 >
 > 1. Pemberitahuan hak cipta dan pernyataan izin harus disertakan dalam semua salinan atau bagian substansial dari perangkat lunak.
 >
-> 2. Perangkat lunak tidak boleh digunakan untuk tujuan komersial tanpa izin tertulis terlebih dahulu dari Rem Company.
+> 2. Perangkat lunak tidak boleh digunakan untuk tujuan komersial tanpa izin tertulis terlebih dahulu dari Comp-XTKjCode.
 >
 > 3. Perangkat lunak tidak boleh digunakan dengan cara yang melanggar hukum, merugikan, atau menimbulkan keberatan lainnya.
 >
