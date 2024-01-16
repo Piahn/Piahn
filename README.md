@@ -5,7 +5,7 @@
 
 • Special Thanks To •
 - PiahnZC [Developer industri]
-- Nikcy [Asisten Developer Server]
+- Nikcy [Developer Server]
 - Sarif [Designer]
 - Ren [Tester]
 - Xlac [API-public]
