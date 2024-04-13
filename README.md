@@ -75,7 +75,7 @@ For questions or inquiries about Bot Rem or the JadiBot (Web) version, please co
 >
 > Untuk informasi lebih lanjut tentang Lisensi MIT, silakan kunjungi https://opensource.org/licenses/MIT.
 >
-> Untuk pertanyaan atau pertanyaan tentang Desain atau ServerIPseles (Web), silakan hubungi Comp-XTKjCode di info@remcp.com.
+> Untuk pertanyaan atau pertanyaan tentang Desain atau ServerIPseles (Web), silakan hubungi Comp-XTKjCode di info@TKJcode.com.
 
 <!---
 Piahn/Piahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
