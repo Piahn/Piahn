@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome👋 :wave:</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-html-black?style=flat-square&logo=html" />
+  <img src="https://img.shields.io/badge/-html?style=flat-square&logo=html" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </div>
