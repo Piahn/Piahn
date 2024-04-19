@@ -36,6 +36,14 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 </div>
 
+<div align="center">
+
+![](https://count.getloli.com/get/@asu?theme=asoul)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wiraardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -48,7 +56,7 @@ ___
 
 <div align="center">
   
-  ![](https://count.getloli.com/get/@xct007?theme=rule34)
+  ![](https://count.getloli.com/get/@xct007?theme=gelbooru-h)
   
 </div>
 
