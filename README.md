@@ -6,7 +6,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ---
 
 <div style="width:80%">
-<img src="https://visitcount.itsvg.in/api?id=piahn&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
+<img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
 </div>
 
 <div align="center">
