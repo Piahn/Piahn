@@ -1,8 +1,15 @@
-<h1 align='center'>Welcome👋 :wave:</h1>
+<h1 align='center'>Welcome :wave:</h1>
+# 💫 About Me:
+I'm a Web developer and Beckend Developer.
+I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer
+
+div style="width:80%">
+<img src="https://visitcount.itsvg.in/api?id=piahn&icon=0&color=0" width="300" height="">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=cpp" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </div>
