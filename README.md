@@ -3,7 +3,7 @@
 I'm a Web developer and Beckend Developer.
 I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer
 
-div style="width:80%">
+<div style="width:80%">
 <img src="https://visitcount.itsvg.in/api?id=piahn&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
 </div>
 
