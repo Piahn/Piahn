@@ -44,7 +44,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@asu?theme=rule34"/></a>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
 </details> 
 </div>
 
@@ -59,13 +59,14 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piahn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
-___
+<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
-<div align="center">
-  
-  ![](https://count.getloli.com/get/@xct007?theme=gelbooru-h)
-  
-</div>
+<p align="center">Here are some my <br>
+most used social media</p>
 
+<p align="center">
+<a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-Ryzen_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 
