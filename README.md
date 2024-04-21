@@ -7,10 +7,6 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 ---
 
-<div style="width:80%">
-<img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,6 +39,10 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <div align="center">
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<div style="width:80%">
+<img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
+</div>
 <br>
 <a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
 </details> 
