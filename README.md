@@ -11,6 +11,8 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&color=1&icon=0&pretty=true" width="300" height="">
 </div>
 
+--- 
+
 <div align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
