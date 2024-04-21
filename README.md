@@ -41,12 +41,14 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <div style="width:80%">
-<img src="https://visitcount.itsvg.in/api?id=piahn&label=Profile%20Views&icon=0&pretty=true" width="300" height="200">
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=piahn&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 <br>
 <a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
 </details> 
 </div>
+</a>
 
 ---
 
