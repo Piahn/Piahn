@@ -68,7 +68,6 @@ most used social media</p>
 
 <p align="center">
 <a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-VianZ231-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<a href="https://www.tiktok.com/viangangz" target="_blank"><img src="https://img.shields.io/badge/-Viangangz-black?style=for-the-badge&logo=tiktok&logoColor=black">
-</a>
+<a href="https://www.tiktok.com/viangangz" target="_blank"><img src="https://img.shields.io/badge/-Iyan%20GangID-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>
 </p>
 
