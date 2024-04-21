@@ -37,11 +37,11 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 </div>
 
-<div align="center">
-
-![](https://count.getloli.com/get/@asu?theme=asoul)
-
-</div>
+<details open>
+<summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@asu?theme=asoul"/></a>
+</details> 
 
 ---
 
