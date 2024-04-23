@@ -1,4 +1,4 @@
-<h1 align='center'>Welcome :wave:</h1>
+<h1 align='center'><strong>Welcome :wave:</strong></h1>
 
 
 # 💫 About Me:
