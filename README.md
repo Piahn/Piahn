@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I'm a Web developer and Beckend Developer.
-I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer,btw gw tukang ngefrok, typo, dll wkwkwk:V bercanda jir emang ada benernya hehew
+I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...,btw gw tukang ngefrok, typo, dll wkwkwk:V bercanda jir emang ada benernya hehew tapi jarang2
 
 ---
 
