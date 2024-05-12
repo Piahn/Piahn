@@ -1,27 +1,78 @@
-<h1 align="center">Hi 👋, I'm Darren</h1>
-<h3 align="center">Beginner Backend Dev From Indonesia</h3>
+<h1 align='center'><strong>Welcome :wave:</strong></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renlikesmoon&label=Profile%20views&color=0e75b6&style=flat" alt="renlikesmoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renlikesmoon" alt="renlikesmoon" /></a> </p>
+# 💫 About Me:
+I'm a Web developer and Beckend Developer.
+I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...,btw gw tukang ngefrok, typo, dll wkwkwk:V bercanda jir emang ada benernya hehew tapi jarang2
 
-- 🔭 Aku Bekerja Di **VolksCompagnie**
+---
 
-- 🌱 Saya Belajar Tentang **Javascript**
+<div align="center">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/++%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=blue"/>
+<br>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
-- 👯 Aku berkolaborasi Dengan **Reliable person**
+<div align="center">
+  <picture>
+      <source
+    media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+    <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
 
-- 🤝 Aku Bekerja Sama dengan **Piahn, Syarif, and Revan**
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piahn)
 
-- 💬 Jika Ingin Bertanya Tentang **Bot Whatsapp Silahkan Menghubungi Saya**
+</div>
 
-- 📫 Kontak Saya **volkszcompany@gmail.com**
+<div align="center">
+<details open>
+<summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<div style="width:80%">
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=piahn&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
+</div>
+<br>
+<a href=""><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
+</details> 
+</div>
+</a>
 
-<h3 align="left">Kontak Saya: wa.me/6285954540177</h3>
-<p align="left">
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wiraardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
+
+![](https://github-readme-stats.vercel.app/api?username=piahn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=piahn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
+
+<p align="center">Here are some my <br>
+most used social media</p>
+
+<p align="center">
+<a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-VianZ231-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank"><img src="https://img.shields.io/badge/-Iyan%20GangID-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>
 </p>
-
-<h3 align="left">Bahasa Yang di Pelajari:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renlikesmoon&show_icons=true&locale=en" alt="renlikesmoon" /></p>
+</div>
+</center>
+</body>
