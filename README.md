@@ -17,7 +17,7 @@
 
 - 📫 Kontak Saya **volkszcompany@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: wa.me/6285954540177</h3>
 <p align="left">
 </p>
 
