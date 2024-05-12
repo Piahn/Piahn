@@ -2,8 +2,7 @@
 
 
 # 💫 About Me:
-I'm a Web developer and Beckend Developer.
-I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...,btw gw tukang ngefrok, typo, dll wkwkwk:V bercanda jir emang ada benernya hehew tapi jarang2
+Beginner Backend Dev. Cuman Iseng buat bot aja ga serius. jadi kalo ada repo gw yg error wajar
 
 ---
 
@@ -58,9 +57,9 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=piahn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=piahn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RenyaAyunda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RenyaAyunda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenyaAyunda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -70,8 +69,8 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 most used social media</p>
 
 <p align="center">
-<a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-VianZ231-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank"><img src="https://img.shields.io/badge/-Iyan%20GangID-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>
+<a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-MDZ231-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank"><img src="https://img.shields.io/badge/-Ren%20MID-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>
 </p>
 </div>
 </center>
