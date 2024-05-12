@@ -55,12 +55,6 @@ Beginner Backend Dev. Cuman Iseng buat bot aja ga serius. jadi kalo ada repo gw 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wiraardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
-
-![](https://github-readme-stats.vercel.app/api?username=RenyaAyunda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RenyaAyunda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenyaAyunda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
