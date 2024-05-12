@@ -43,7 +43,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <br>
 <div style="width:80%">
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=DwiRizqiH&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
+<img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 <br>
 <a href=""><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
@@ -54,7 +54,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wiraardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=piahn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 
