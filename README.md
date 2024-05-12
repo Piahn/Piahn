@@ -46,7 +46,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 <img src="https://visitcount.itsvg.in/api?id=wiraardy&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 <br>
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
+<a href=""><img alt="Cute Count" src="https://count.getloli.com/get/@xct007?theme=rule34"/></a>
 </details> 
 </div>
 </a>
