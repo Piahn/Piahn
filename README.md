@@ -42,8 +42,6 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 </div>
 
----
-
 <div align="center">
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
