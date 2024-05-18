@@ -59,7 +59,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ----
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wiraardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=piahn&theme=onedark)
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 
