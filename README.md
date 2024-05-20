@@ -1,6 +1,5 @@
 <h1 align='center'><strong>Welcome :wave:</strong></h1>
-
-
+<br>
 
 # 💫 About Me:
 I'm a Web developer and Beckend Developer.
