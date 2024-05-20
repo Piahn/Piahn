@@ -61,8 +61,9 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piahn&theme=onedark)
 
-<details open>
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
+<details open>
+<summary><b>←Total Stats on github  ↓</b></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=piahn&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piahn&theme=dark&hide_border=false)<br/>
