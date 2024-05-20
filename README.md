@@ -71,7 +71,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
-<p align="center">Here are some my <br>
+<p align="center"> Here are some my <br>
 most used social media</p>
 
 <p align="center">
