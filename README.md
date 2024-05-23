@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Chandra-XD/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
+<img src="https://raw.githubusercontent.com/piahn/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
 </p>
 <p align="center">
   
