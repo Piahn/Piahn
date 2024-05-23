@@ -2,9 +2,6 @@
 <img src="https://raw.githubusercontent.com/Chandra-XD/cn-grabbed-result/main/media/gif/itsuka%20kotori%20on%20Tumblr.gif" />
 </p>
 <p align="center">
-  
-<h1 align='center'><strong>Welcome :wave:</strong></h1>
-<br>
 
 # 💫 About Me:
 I'm a Web developer and Beckend Developer.
