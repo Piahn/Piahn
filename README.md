@@ -16,6 +16,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
   <a href="https://open.spotify.com/playlist/04fEJaePXNedYZtqBauW0s?si=2d58f5ebb5af4cb6" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 </div>
+
 ---
 
 <div align="center">
