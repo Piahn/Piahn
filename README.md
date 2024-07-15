@@ -73,7 +73,7 @@ I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selal
 ![](https://github-profile-trophy.vercel.app/?username=piahn&)
 
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
-<details open>
+<details closed>
 <summary align="center"><b>←Total Stats on github  ↓</b></summary>
 <br>
 
