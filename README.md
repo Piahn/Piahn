@@ -5,7 +5,7 @@
 
 ---------
 <br>
-  i like music ♥ 
+  I like listening to music ♥ 
   <br>
   <br>
 <p align="left">
