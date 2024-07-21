@@ -1,14 +1,14 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 # 💫 About Me:
-I'm a Web developer and Beckend Developer.
-I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...
+I'm a Web developer and Beckend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...
+---------
 
 <br>
-  i like japanese music ♥ 
+  i like music ♥ 
   <br>
-  <p>
-  <a href="https://open.spotify.com/playlist/04fEJaePXNedYZtqBauW0s?si=2d58f5ebb5af4cb6" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10" />
 </p>
 </div>
 
