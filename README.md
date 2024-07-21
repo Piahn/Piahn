@@ -9,7 +9,7 @@
   <br>
   <br>
 <p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=7p2s4WEUqfWW1EPL4oKAkm&width=600&count=10" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fc1569d6f03c45de&width=600&count=10" />
 </p>
 </div>
 
