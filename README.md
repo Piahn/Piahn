@@ -1,13 +1,13 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-# 💫 About Me:
-I'm a Web developer and Beckend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...
----------
+# `Account information`
+> I'm a Web developer and Beckend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...
 
+---------
 <br>
   i like music ♥ 
   <br>
-<p align="center">
+<p align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10" />
 </p>
 </div>
