@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Php%20-%234285F4.svg?&style=for-the-badge&logo=react&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/React%20-%234285F4.svg?&style=for-the-badge&logo=react&logoColor=lightblue"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%23ffffff.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue"/>
 <br>
