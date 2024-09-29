@@ -88,7 +88,7 @@
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
 <p align="center"> Here are some my <br>
-most used social media</p>
+most used social media </p>
 
 <p align="center">
 <a href="https://www.instagram.com/vianz231" target="_blank"><img src="https://img.shields.io/badge/-VianZ231-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
