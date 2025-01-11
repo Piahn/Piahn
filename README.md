@@ -6,7 +6,7 @@
 
 
 # `Account information`
-> I'm a Web developer and Beckend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, and Nodejs. Aku hanya pemula yg selalu ingin berkarir di bidang software engineer...
+> I'm a Web developer and Frontend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, and Nodejs. Aku ingin mendalaminya agar saya bisa berkarir di bidang software engineer
 
 -------
 <br>
