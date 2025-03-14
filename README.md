@@ -13,8 +13,8 @@
   I like listening to music ♥ 
   <br>
   <br>
-<p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ndslvr2whgcrklzma3q76lazim&width=100%&count=5" />
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ndslvr2whgcrklzma3q76lazim&width=600count=5" />
 </p>
 </div>
 
