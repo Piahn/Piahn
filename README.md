@@ -3,7 +3,7 @@
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
+  
 
 # `Account information`
 > I'm a Web developer and Frontend Developer. this My goal in creating this GitHub account is to express my ideas about coding. Usually, this is a hobby. I started coding in HTML, CSS, JavaScript, Tailwindcss, Nodejs and Others. Aku ingin mendalaminya agar saya bisa berkarir di bidang software engineer
