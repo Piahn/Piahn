@@ -22,7 +22,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 ## 🛠️ My Tech Stack
 
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <code><img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></code>
   <code><img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></code>
   <code><img height="30" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></code>
