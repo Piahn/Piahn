@@ -102,7 +102,9 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
   </a>
 </p>
 
-[![----------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=100&section=footer"/>
