@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  [![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </div>
 
 ## 👋 About Me
