@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=Hi%20There!&fontSize=40&fontColor=ffffff" alt="Header Waving Cap"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=Hi%20There!%20Welcome&fontSize=40&fontColor=ffffff" alt="Header Waving Cap"/>
 </p>
 
 <div align="center">
@@ -104,6 +104,10 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
     <img height="30" src="https://img.shields.io/badge/TikTok-Iyan%20GangID-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
+
+<div align="center">
+  <sub>Built with ❤️ by Piahn Wijaya</sub>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
