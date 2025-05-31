@@ -91,13 +91,13 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 ## 📫 Let's Connect!
 
 <p align="center">
-  Feel free to reach out to me on my social media:
+  Feel free to connect with me on my social media:
   <br><br>
   <a href="https://www.instagram.com/vianz231" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-vianz231-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img height="30" src="https://img.shields.io/badge/Instagram-vianz231-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Iyan%20GangID-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img height="30" src="https://img.shields.io/badge/TikTok-Iyan%20GangID-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
 
