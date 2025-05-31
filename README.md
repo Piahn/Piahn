@@ -34,13 +34,9 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 [![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs)](https://skillicons.dev)
 
-#### Mobile
-
-[![Android Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
-
 #### Database
 
-[![My Database Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 #### Tools & Platforms
 
