@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=Hi%20There!&fontSize=40&fontColor=ffffff" alt="Header Waving Cap"/>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![----------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## 👋 About Me
 
@@ -100,7 +100,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
   </a>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![----------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=100&section=footer"/>
