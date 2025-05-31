@@ -36,7 +36,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Database
 
-[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase)](https://skillicons.dev)
+[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)](https://skillicons.dev)
 
 #### Tools & Platforms
 
