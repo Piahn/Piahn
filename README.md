@@ -83,7 +83,7 @@
 </details>
 
 <div align="center">
-<a href="https://github.com/ShirokamiRyzen"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
+<a href="https://github.com/ShirokamiRyzen"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piahn&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 <a href="https://github.com/ShirokamiRyzen">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
