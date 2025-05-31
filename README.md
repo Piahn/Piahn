@@ -20,7 +20,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 ---
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 #### Front-end
 
