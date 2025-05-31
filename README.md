@@ -24,7 +24,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Front-end
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs)](https://skillicons.dev)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs&perline=4)](https://skillicons.dev)
 
 #### Back-end
 
@@ -40,7 +40,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Tools & Platforms
 
-[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,ubuntu,vscode,visualstudio,postman,npm)](https://skillicons.dev)
+[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,ubuntu,vscode,visualstudio,postman,npm&perline=4)](https://skillicons.dev)
 
 
 ---
