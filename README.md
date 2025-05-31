@@ -32,7 +32,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Full Stack
 
-[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs)](https://skillicons.dev)
+[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,express)](https://skillicons.dev)
 
 #### Database
 
@@ -40,7 +40,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Tools & Platforms
 
-[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,ubuntu)](https://skillicons.dev)
+[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,ubuntu,vscode)](https://skillicons.dev)
 
 
 ---
