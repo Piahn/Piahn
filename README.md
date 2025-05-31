@@ -79,13 +79,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=piahn&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piahn&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piahn)
 
 <div align="center">
 <a href="https://github.com/ShirokamiRyzen"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piahn&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 <a href="https://github.com/ShirokamiRyzen">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piahn&theme=monokai)
 </div>
 </details>
 
