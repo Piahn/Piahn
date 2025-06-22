@@ -84,7 +84,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=piahn&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
     <br><br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piahn&hide_border=true&border_radius=5.5&short_numbers=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piahn&hide_border=true&border_radius=5.5&short_numbers=true" alt="GitHub Streak" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </details>
