@@ -79,7 +79,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 ### ⚙️ GitHub Stats
 <div align="center">
-  <details>
+  <details open>
     <summary><b>Click to expand GitHub Stats</b></summary>
     <br>
       <img src="https://github-readme-stats.vercel.app/api?username=piahn&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
