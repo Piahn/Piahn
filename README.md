@@ -40,7 +40,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Tools & Platforms
 
-[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio&perline=4)](https://skillicons.dev)
+[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio&perline=5)](https://skillicons.dev)
 
 ---
 
