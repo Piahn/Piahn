@@ -28,7 +28,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Back-end
 
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel)](https://skillicons.dev)
 
 #### Full Stack
 
