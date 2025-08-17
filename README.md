@@ -24,11 +24,11 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Front-end
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs&perline=4)] 
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs&perline=4)]()
 
 #### Back-end
 
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel)]()
 
 #### Full Stack
 
@@ -36,11 +36,11 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 #### Database
 
-[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)]
+[![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)]()
 
 #### Tools & Platforms
 
-[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio&perline=5)]
+[![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio&perline=5)]()
 
 ---
 
