@@ -90,6 +90,16 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
   </details>
 </div>
 
+<div>
+<h2 align="center"> 📊 Statistics 📊 </h2>
+</div>
+<div align="center">
+    <img width="625em" src="./github-metrics.svg" />
+</div>
+<br>
+<br>
+
+
 ---
 
 ## 📫 Let's Connect!
