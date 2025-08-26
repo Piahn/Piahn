@@ -61,11 +61,6 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
         <img src="https://github-readme-streak-stats.herokuapp.com?user=piahn&theme=tokyonight&hide_border=true&border_radius=5.5&locale=ms_ID&short_numbers=true" alt="GitHub Streak" />
       </td>
     </tr>
-    <tr>
-      <td colspan="1" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-      </td>
-    </tr>
   </table>
 </div>
 
