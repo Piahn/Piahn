@@ -52,15 +52,21 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 ### ⚙️ GitHub Stats
 <div align="center">
-  <details open>
-    <summary><b>Click to expand GitHub Stats</b></summary>
-    <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=piahn&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-    <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=piahn&theme=tokyonight&hide_border=true&border_radius=5.5&locale=ms_ID&short_numbers=true" alt="GitHub Streak" />
-    <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </details>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=piahn&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=piahn&theme=tokyonight&hide_border=true&border_radius=5.5&locale=ms_ID&short_numbers=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
