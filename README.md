@@ -14,7 +14,6 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 <div align="center">
     <summary><b>👁️ Profile Visitors</b></summary>
-    <br>
     <a href="https://www.getloli.com/" target="_blank">
       <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
     </a>
