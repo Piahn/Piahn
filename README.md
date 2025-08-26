@@ -62,7 +62,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="1" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
       </td>
     </tr>
