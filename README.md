@@ -42,40 +42,13 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 
 [![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio&perline=5)]()
 
----
-
-## 📊 My GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piahn&theme=dracula" alt="Profile Summary Card"/>
-</p>
-
 <div align="center">
-  <details open>
     <summary><b>👁️ Profile Visitors</b></summary>
     <br>
     <a href="https://www.getloli.com/" target="_blank">
       <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
     </a>
-  </details>
 </div>
-
-<br>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piahn&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<br>
 
 ### ⚙️ GitHub Stats
 <div align="center">
@@ -90,6 +63,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
   </details>
 </div>
 
+---
 <div>
 <h2 align="center"> 📊 Statistics 📊 </h2>
 </div>
@@ -99,6 +73,10 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
 <br>
 <br>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piahn&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
