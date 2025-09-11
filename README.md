@@ -20,7 +20,7 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
     </a>
 </div>
 
----
+<br>
 
 <p align="center">
   <i>I enjoy listening to music while coding or relaxing! 🎧</i>
