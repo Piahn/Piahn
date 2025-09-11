@@ -10,6 +10,13 @@
 
 I'm a Web Developer with a focus on Frontend technologies. My goal in creating this GitHub account is to express my ideas about coding and build projects. It started as a hobby, and I began my journey with HTML, CSS, JavaScript, then moved on to frameworks/libraries like Tailwind CSS and React, as well as backend technologies like Node.js. I am passionate about deepening my knowledge to pursue a career as a Software Engineer.
 
+<br>
+<p align="center">
+  <i>I enjoy listening to music while coding or relaxing! 🎧</i>
+  <br><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ndslvr2whgcrklzma3q76lazim&width=600&count=5" alt="Spotify Recently Played" />
+</p>
+
 ---
 
 <div align="center">
@@ -19,14 +26,6 @@ I'm a Web Developer with a focus on Frontend technologies. My goal in creating t
       <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
     </a>
 </div>
-
-<br>
-
-<p align="center">
-  <i>I enjoy listening to music while coding or relaxing! 🎧</i>
-  <br><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ndslvr2whgcrklzma3q76lazim&width=600&count=5" alt="Spotify Recently Played" />
-</p>
 
 ---
 
