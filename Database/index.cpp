@@ -1,1 +1,1 @@
-test gtw malu
+malas banget ga bisa di hapus jig di aplikasi 
