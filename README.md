@@ -1,12 +1,13 @@
 ![Banner](images/Designer's-Toolkit-Porfolio1.png)
 
-Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Komputer dan Jaringan (TKJ)**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages, and even an RPG dungeon system inside a bot.
+Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Informatika**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages.
 
-**🔭 What I'm building right now:**
-- 🤖 **yurizakiBot** — WhatsApp bot platform (Go + Bun, stdio IPC)
-- 🌐 **Portfolio v2** — Next.js + GSAP + Lenis smooth scroll
-- 📦 **npm packages** — open-source tools & yt-dlp wrapper
-- 🎮 **RPG dungeon system** — inside a WhatsApp bot (yes, really)
+**🔭 My Stack**
+- Backend:
+- Frontend:
+- FullStack: 
+- Tools
+
 
 **🌱 Currently deep-diving into:**
 Go internals · Advanced TypeScript · System Architecture
