@@ -10,7 +10,6 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 
 <h1><strong>🔭 My Stack</strong></h1>
 
-<div align="left">
   
 **Backend**
   
@@ -32,7 +31,6 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 
 [![Tools](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio)](https://skillicons.dev)
 
-</div>
 <br/>
 
 **🌱 Currently deep-diving into:** Go internals · Advanced TypeScript · System Architecture
