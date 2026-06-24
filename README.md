@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/vianz231" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Instagram-vianz231-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <br><br>
+  <br>
   <a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/TikTok-Iyan%20GangID-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
