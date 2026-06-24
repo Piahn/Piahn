@@ -8,7 +8,7 @@
 
 Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Informatika**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages.
 
-**🔭 My Stack**
+<h1><strong>🔭 My Stack</strong></h1>
 
 <div align="left">
   
