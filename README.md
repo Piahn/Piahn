@@ -2,8 +2,6 @@
   <img src="images/Designer's-Toolkit-Porfolio1.png" alt="Piahn Wijaya" width="100%"/>
 </div>
 
-<br/>
-
 ## 👋 About Me
 
 Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Informatika**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages and My goal in creating this GitHub account is to express my ideas about coding and build projects. I am passionate about deepening my knowledge to pursue a career as a Software Engineer.
