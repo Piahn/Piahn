@@ -15,11 +15,3 @@
 <div align="center">
   <sub>Built with ❤️ by Piahn Wijaya</sub>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=100&section=footer"/>
-</p>
