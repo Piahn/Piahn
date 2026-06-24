@@ -12,7 +12,7 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 
 **🔭 My Stack**
 
-<div align="center">
+<div align="left">
 
 **Backend**
 
