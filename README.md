@@ -1,7 +1,7 @@
 ![Banner](images/Designer's-Toolkit-Porfolio1.png)
 
 ## 📫 Let's Connect!
-<p align="center">
+<p align="left">
   Feel free to connect with me on my social media:
   <br><br>
   <a href="https://www.instagram.com/vianz231" target="_blank">
