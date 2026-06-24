@@ -10,7 +10,7 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
   
 **Backend**
   
-[![Backend](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel,golang)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel,golang,bun)](https://skillicons.dev)
   
 **Frontend**
 
