@@ -1,17 +1,30 @@
 ![Banner](images/Designer's-Toolkit-Porfolio1.png)
 
 ## 📫 Let's Connect!
-<p align="left">
-  Feel free to connect with me on my social media:
-  <br><br>
-  <a href="https://www.instagram.com/vianz231" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Instagram-vianz231-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <br>
-  <a href="https://vm.tiktok.com/ZSFWvCjCd/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/TikTok-Iyan%20GangID-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-</p>
+
+- About Me
+```yaml
+👤 name     : Piahn Wijaya
+📍 location : Tangerang, Indonesia 🇮🇩
+📚 major    : Teknik Informatika
+
+💼 roles    :
+  - Fullstack Developer
+  - Networking Engginer 
+  - Freelance
+
+🛠️ core     : Go · Bun · Next.js · MongoDB
+🗄️ database : MongoDB · PostgreSQL · MySQL
+
+🎯 interests:
+  - Web Development 🌐
+  - WhatsApp Automation 🤖
+  - RPG Game Design 🎮
+  - Music & Lo-fi 🎵
+` ` `
+
+- 📧 Email : hello@pwijaya.eu.cc
+- 🌐 Website : www.pwijaya.eu.cc
 
 ##
 ✨ **Friendly Reminder** : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. <br>
