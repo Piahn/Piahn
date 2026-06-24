@@ -46,13 +46,9 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 
 ## 📫 Let's Connect!
 
-<p align="center">
-  📧 &nbsp;<b>Email</b> &nbsp;:&nbsp; hello@pwijaya.eu.cc &nbsp;&nbsp;·&nbsp;&nbsp; 🌐 &nbsp;<b>Website</b> &nbsp;:&nbsp; <a href="https://www.pwijaya.eu.cc">www.pwijaya.eu.cc</a>
-</p>
-
-<br/>
-
-<p align="center">
-  ✨ <b>Friendly Reminder</b> : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development.<br/>
-  If my projects spark your interest, don't be shy — let's connect and create something awesome together ! 🤗
-</p>
+- 📧 Email : hello@pwijaya.eu.cc
+- 🌐 Website : www.pwijaya.eu.cc
+- 
+##
+✨ **Friendly Reminder** : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. <br>
+If my projects spark your interest, don't be shy — let's connect and create something awesome together ! 🤗
