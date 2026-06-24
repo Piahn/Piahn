@@ -14,7 +14,7 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
   
 **Backend**
   
-[![Backend](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel,golang)](https://skillicons.dev)
   
 **Frontend**
 
@@ -47,5 +47,4 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 - 🌐 Website : www.pwijaya.eu.cc
 
 ##
-✨ **Friendly Reminder** : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. <br>
-If my projects spark your interest, don't be shy — let's connect and create something awesome together ! 🤗
+✨ **Friendly Reminder** : Every project I've built started with a simple idea — usually at midnight, with lo-fi playing in the background and way too much coffee. If you've got that same spark, that "what if I built this?" moment — I'd love to hear it. I believe the best things get built when curious people work together, so don't be a stranger. Drop a message, share your idea, and let's see where it goes. 🎵✨
