@@ -4,15 +4,16 @@
 Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Informatika**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages.
 
 **🔭 My Stack**
-- Backend:
-- Frontend:
-- FullStack: 
-- Tools
+- Backend: [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp,laravel)]()
+- Frontend: [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs)]()
+- FullStack: [![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,express)](https://skillicons.dev)
+- Database: [![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma)]()
+- Tools: [![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows,androidstudio)]()
 
 **🌱 Currently deep-diving into:**
 Go internals · Advanced TypeScript · System Architecture
-
-**⚡ Fun fact:** Lo-fi music is my compiler. Won't code without it 🎵
+**⚡ Fun fact:** 
+Lo-fi music is my compiler. Won't code without it 🎵
 
 ## 📫 Let's Connect!
 
