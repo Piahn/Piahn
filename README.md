@@ -1,5 +1,6 @@
 ![Banner](images/Designer's-Toolkit-Porfolio1.png)
 
+## About Me 
 Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia** 🇮🇩, currently studying **Teknik Informatika**. What started as hobby tinkering with HTML & CSS quickly snowballed into building full-stack web apps, WhatsApp automation bots, npm packages.
 
 **🔭 My Stack**
@@ -7,7 +8,6 @@ Hi! I'm **Piahn Wijaya** — a self-driven developer from **Tangerang, Indonesia
 - Frontend:
 - FullStack: 
 - Tools
-
 
 **🌱 Currently deep-diving into:**
 Go internals · Advanced TypeScript · System Architecture
